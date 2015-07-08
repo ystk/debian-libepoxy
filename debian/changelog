@@ -1,0 +1,11 @@
+libepoxy (1.2-1) unstable; urgency=low
+
+  * Upgrade to upstream v1.2 release.
+
+ -- Eric Anholt <eric@anholt.net>  Tue, 13 May 2014 17:47:29 -0700
+
+libepoxy (1.1-1) unstable; urgency=low
+
+  * Initial release (Closes: #737273)
+
+ -- Eric Anholt <eric@anholt.net>  Fri, 31 Jan 2014 16:52:20 -0800
